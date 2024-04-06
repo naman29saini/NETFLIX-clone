@@ -402,6 +402,7 @@ footer .questions a{
     }
     .content-inside{
         flex-direction: column;
+        margin-bottom: 115px;
     }
    
 }
